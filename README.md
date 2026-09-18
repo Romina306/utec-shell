@@ -1,1 +1,1 @@
-# utec-shell
+# UTEC Shell Basics
